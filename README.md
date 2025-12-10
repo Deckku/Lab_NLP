@@ -76,7 +76,7 @@ Les modèles ont été évalués sur un jeu de test de 30% des données, en util
 
 L'intégration d'une couche d'embedding a permis au modèle de mieux capturer les nuances sémantiques des titres, conduisant à une amélioration de la capacité de discrimination entre les classes (ROC AUC) et un meilleur rappel pour la détection du sarcasme. Bien que la précision globale n'ait pas augmenté, l'approche par embeddings démontre un potentiel prometteur pour cette tâche, suggérant que des architectures de réseaux de neurones plus complexes basées sur ces embeddings pourraient offrir de meilleures performances.
 
-
+##6. Credits
 
 Author: Azami Hassani Adnane
 Supervisor: Prof. Masrour Tawfik
