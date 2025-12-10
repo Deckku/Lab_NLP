@@ -78,5 +78,5 @@ L'intégration d'une couche d'embedding a permis au modèle de mieux capturer le
 
 ## 6. Credits
 
-Author: Azami Hassani Adnane.
-Supervisor: Prof. Masrour Tawfik.
+* Author: Azami Hassani Adnane.
+* Supervisor: Prof. Masrour Tawfik.
